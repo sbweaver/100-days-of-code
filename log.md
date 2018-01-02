@@ -1,32 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 03, 2017
+### Day 1: January 01, 2018
 
-**Today's Progress**: ???.
+**Today's Progress**: Did some CSS rule review and tried things out on CodePen. Encouraged 2 people on Twitter.
 
-**Thoughts:** ???
+**Thoughts:** Had to drop out last time I tried - want to rock it this time.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-
+**Link to work:** Used [The CSS Layout Workshop by Rachel Andrew](https://thecssworkshop.com) to review
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 2, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked the log for "100 Days of Code" on GitHub and got it started
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
