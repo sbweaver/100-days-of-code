@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## ROUND 1
+
 ### Day 1: January 01, 2018
 
 **Today's Progress**: Did some CSS rule review and tried things out on CodePen. Encouraged 2 people on Twitter.
