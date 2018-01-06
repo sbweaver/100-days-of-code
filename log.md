@@ -29,10 +29,11 @@
 **Link(s) to work**: still not brave
 
 
-### Day 4: January 4, 2018 
 
-**Today's Progress**: Learned about and played with pure CSS images - signed up for the free course on Teachable by Michael Mangialardi
+### Day 5: January 5, 2018 
 
-**Thoughts**: Pure CSS image basics are pretty simple - I can see the potential with this. It's fun to play with - not sure how you would approach accessibility - I guess you'd need to label them - maybe add words to one of the containers in the same color as the background? Will have to look into that. Maybe he has suggestions later in the course.
+**Today's Progress**: Studying and playing more with pure CSS images
 
-**Link(s) to work**: getting more brave...
+**Thoughts**: This is fun - decided to post my exercise
+
+**Link(s) to work**: [My Koala with CSS Variables](https://codepen.io/sgweaver/pen/qpPpzv/)
