@@ -45,3 +45,12 @@
 **Thoughts**: There are some cool tools for working with colors. Tried Pug too and that is really helpful - makes writing HTML divs very easy. Added some shape variables to my little exercise. Thanks for the tips, Mike Mangialardi :)
 
 **Link(s) to work**: [My Koala with CSS Variables](https://codepen.io/sgweaver/pen/qpPpzv/)
+
+
+### Day 7: January 7, 2018 
+
+**Today's Progress**: Studying and playing more with pure CSS images
+
+**Thoughts**: Weekends are sometimes harder...
+
+**Link(s) to work**: none today
