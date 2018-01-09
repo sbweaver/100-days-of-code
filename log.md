@@ -54,3 +54,12 @@
 **Thoughts**: Weekends are sometimes harder...
 
 **Link(s) to work**: none today
+
+
+### Day 8: January 8, 2018 
+
+**Today's Progress**: Studying and playing more with pure CSS images
+
+**Thoughts**: I have more fun coding earlier in the day. I get tired at night and I feel guilty when I'm not hanging with my kids... but then I'm so good at guilt :D
+
+**Link(s) to work**: none today
