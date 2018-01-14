@@ -63,3 +63,38 @@
 **Thoughts**: I have more fun coding earlier in the day. I get tired at night and I feel guilty when I'm not hanging with my kids... but then I'm so good at guilt :D
 
 **Link(s) to work**: none today
+
+
+### Day 9: January 9, 2018 
+
+**Today's Progress**: Playing with JS
+
+**Thoughts**: Was a busy day
+
+**Link(s) to work**: none today
+
+
+### Day 10: January 10, 2018 
+
+**Today's Progress**: Playing with JS
+
+**Thoughts**: Was a busy day
+
+**Link(s) to work**: none today
+
+
+### Day 11: January 13, 2018 
+
+**Today's Progress**: Playing with simple CSS animation
+
+**Thoughts**: Missed the last two days and I'm not sorry because my family comes before code. Started the pattern of beating myself up about missing two days and then decided, "NO! I'm doing this on MY terms." 
+
+I tend to be a hard ass when it comes to myself. Got this inner critic that won't quit. That has got to stop. I've spent the last 5 years trying to undo many years of not trusting myself. I'm not doing guilt anymore. I'm trusting myself. I know the best path for me and my family and some days my daily goal-oriented tasks may not happen because my kids needed me. 
+
+I'm thinking about writing a blog post about this. It's easy to get discouraged and start wailing on yourself. This is my 3rd time trying the #100DaysOfCode and I'm not giving up but I'm also going to do it my own way. 
+
+I have a friend who manages a web design team. He says that designers tend to be introverts. I think that he also said - or maybe someone else did - that designers don't like people looking over their shoulders while they're working on a project. That is totally me. I want everything all polished and then I present. 100 Days of Code doesn't work like that. You just have to keep putting it out there every day and if you're a person who worries about what everyone else thinks, then when you miss a day, or your results are sub-par in your opinion, there is this funk hanging over you... if you let it. It's a mind-set thing and I am so sick of this mindset that worries about what other people think. This is my thing. I'm doing it for me. So I need to not give a flying f*** what anyone else thinks. For me. :) And it's not like I'm the center of the universe anyway - nobody is really reading this except for me. Ha!
+
+Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
+
+**Link(s) to work**: What the hell: [Simple animated SVG icon](https://codepen.io/sgweaver/pen/XVYLVz/)
