@@ -98,3 +98,12 @@ I have a friend who manages a web design team. He says that designers tend to be
 Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 
 **Link(s) to work**: What the hell: [Simple animated SVG icon](https://codepen.io/sgweaver/pen/XVYLVz/)
+
+
+### Day 12: January 14, 2018 
+
+**Today's Progress**: Working on my theme based on Underscores
+
+**Thoughts**: Good to get back into this. Need to do some sketches on paper for ideas of what I want it to look like. 
+
+**Link(s) to work**: none today
