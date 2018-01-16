@@ -107,3 +107,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Good to get back into this. Need to do some sketches on paper for ideas of what I want it to look like. 
 
 **Link(s) to work**: none today
+
+
+### Day 13: January 15, 2018 
+
+**Today's Progress**: Working on my theme based on Underscores
+
+**Thoughts**: Slow going, but I'm refreshing my memory. It's fun to make your own theme. I like knowing some command line. 
+
+**Link(s) to work**: none today
