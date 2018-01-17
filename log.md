@@ -116,3 +116,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Slow going, but I'm refreshing my memory. It's fun to make your own theme. I like knowing some command line. 
 
 **Link(s) to work**: none today
+
+
+### Day 14: January 16, 2018 
+
+**Today's Progress**: Working on my theme based on Underscores
+
+**Thoughts**: Plugging along. 
+
+**Link(s) to work**: none today
