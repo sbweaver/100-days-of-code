@@ -125,3 +125,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Plugging along. 
 
 **Link(s) to work**: none today
+
+
+### Day 15: January 17, 2018 
+
+**Today's Progress**: Working on my theme based on Underscores - reading the Codex at WordPress.org
+
+**Thoughts**: Plugging along. Lots of good info at WordPress.org 
+
+**Link(s) to work**: none today
