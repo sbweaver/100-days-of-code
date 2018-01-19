@@ -134,3 +134,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Plugging along. Lots of good info at WordPress.org 
 
 **Link(s) to work**: none today
+
+
+### Day 16: January 18, 2018 
+
+**Today's Progress**: Working on a Genesis child theme 
+
+**Thoughts**: Plugging along. Lots of good info at WordPress.org 
+
+**Link(s) to work**: 
