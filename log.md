@@ -143,3 +143,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Plugging along. Lots of good info at WordPress.org 
 
 **Link(s) to work**: 
+
+
+### Day 17: January 19, 2018 
+
+**Today's Progress**: Working on my theme based on Underscores
+
+**Thoughts**: Almost have custom logo in header working - extra text is being added (the site title) above it - not sure why... 
+
+**Link(s) to work**: 
