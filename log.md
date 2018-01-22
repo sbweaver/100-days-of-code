@@ -152,3 +152,21 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Almost have custom logo in header working - extra text is being added (the site title) above it - not sure why... 
 
 **Link(s) to work**: 
+
+
+### Day 18: January 20, 2018 
+
+**Today's Progress**: Working on my theme based on Underscores
+
+**Thoughts**: Didn't get quite as much time today and forgot to Tweet - but my kid's team won the state Lego Robotics competition :) #KidsBeforeCode
+
+**Link(s) to work**: 
+
+
+### Day 19: January 21, 2018 
+
+**Today's Progress**: Working on my theme based on Underscores
+
+**Thoughts**: Lots to learn on the WordPress.org site
+
+**Link(s) to work**: 
