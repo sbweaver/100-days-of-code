@@ -170,3 +170,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Lots to learn on the WordPress.org site
 
 **Link(s) to work**: 
+
+
+### Day 20: January 22, 2018 
+
+**Today's Progress**: Working in Genesis themes and plugins
+
+**Thoughts**: Wishing to use my underscores-based theme instead but Genesis might be safer and faster to use for certain projects...
+
+**Link(s) to work**: 
