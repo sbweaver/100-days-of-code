@@ -179,3 +179,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Wishing to use my underscores-based theme instead but Genesis might be safer and faster to use for certain projects...
 
 **Link(s) to work**: 
+
+
+### Day 21: January 23, 2018 
+
+**Today's Progress**: Working in Genesis themes and plugins
+
+**Thoughts**: A little tired today but still having fun - wish I could spend more time doing this and not all of the other stuff I have to do  :)
+
+**Link(s) to work**: 
