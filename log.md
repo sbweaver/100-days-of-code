@@ -206,3 +206,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: I'm wishing to just move to my theme from Underscores with the containers stripped out so that I could use some grid. All of these wrap divs in Genesis are annoying me along with the ::before and ::after for clearing the floats. They "f" up my grids. I want the freedom to put things all over the page wherever I want... but it needs to be accessible and responsive... and this is supposed to be a quick site move... yeah, right. Why do I have to be such an idealist? Genesis adds a lot of nice canned functionality for a low budget website. I don't know. Ope! Just found GenGrid by Matt Whiteley on GitHub
 
 **Link(s) to work**: [https://github.com/mwhiteley16/GenGrid](Matt Whiteley's Genesis Grid starter child theme - GenGrid)
+
+
+### Day 24: January 26, 2018 
+
+**Today's Progress**: Working in a bunch of different WP themes - comparing things - looking at builders too for their speed but don't really want to use them... 
+
+**Thoughts**: Overwhelmed by options... tomorrow's another day
+
+**Link(s) to work**: 
