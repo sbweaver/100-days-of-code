@@ -224,3 +224,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Mentioned by Jen: (want to check out Shape Path Inspector in Firefox Nightly); Implicit vs. Explicit CSS Grid: that was something that I've thought was pretty cool for a while but didn't know that's what those terms were describing; Keep going back to Morten Rand-Hendrickson's tutorial because it's hard to remember what I did the first time - it helps to be going back through it.
 
 **Link(s) to work**: 
+
+
+### Day 26: January 28, 2018 
+
+**Today's Progress**: Hoped to get into it today, but had too much paperwork - did about 3 hours yesterday so I'm calling it good for today. 
+
+**Thoughts**: Wishing for a quiet day w/no interuptions to focus
+
+**Link(s) to work**: 
