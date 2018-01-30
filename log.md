@@ -239,6 +239,6 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 
 **Today's Progress**: More theme work. Working in header and navigation styles and functionality.
 
-**Thoughts**: progress...
+**Thoughts**: progress... REMEMBER my extra notes in Evernote (Lakeside Zen Theme Notes - from Underscores theme) and notes in "git-projects/reflections"
 
 **Link(s) to work**: 
