@@ -233,3 +233,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Wishing for a quiet day w/no interuptions to focus
 
 **Link(s) to work**: 
+
+
+### Day 27: January 29, 2018 
+
+**Today's Progress**: More theme work. Working in header and navigation styles and functionality.
+
+**Thoughts**: progress...
+
+**Link(s) to work**: 
