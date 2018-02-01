@@ -242,3 +242,21 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: progress... REMEMBER my extra notes in Evernote (Lakeside Zen Theme Notes - from Underscores theme) and notes in "git-projects/reflections"
 
 **Link(s) to work**: 
+
+
+### Day 28: January 30, 2018 
+
+**Today's Progress**: Working in CSS on a Genesis child theme.
+
+**Thoughts**: forgot to tweet
+
+**Link(s) to work**: 
+
+
+### Day 29: January 31, 2018 
+
+**Today's Progress**: Working in CSS on a Genesis child theme.
+
+**Thoughts**: Working on designing in the browser with the Firefox Developer inspector is interesting
+
+**Link(s) to work**: 
