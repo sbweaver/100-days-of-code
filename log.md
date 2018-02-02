@@ -260,3 +260,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Working on designing in the browser with the Firefox Developer inspector is interesting
 
 **Link(s) to work**: 
+
+
+### Day 30: February 1, 2018 
+
+**Today's Progress**: Working in CSS on a Genesis child theme.
+
+**Thoughts**: This is getting fun :)
+
+**Link(s) to work**: 
