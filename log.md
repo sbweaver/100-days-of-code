@@ -277,4 +277,13 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 
 **Thoughts**: Did lots yesterday - that will count for today
 
+**Link(s) to work**:  
+
+
+### Day 32: February 3, 2018 
+
+**Today's Progress**: More work in CSS on a theme
+
+**Thoughts**: Busy week - hard to focus on intricate CSS with other people around but glad they're around :)  
+
 **Link(s) to work**: 
