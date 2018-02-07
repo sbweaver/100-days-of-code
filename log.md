@@ -296,3 +296,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Missed yesterday but got to watch the Superbowl - go Eagles! Was nice to see them win. Remembered what it was like to walk down Broad Street and could imagine what the party was like :)  Made good progress on my theme.  
 
 **Link(s) to work**: 
+
+
+### Day 34: February 6, 2018 
+
+**Today's Progress**: More work in CSS
+
+**Thoughts**: Plugging along...
+
+**Link(s) to work**: 
