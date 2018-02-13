@@ -305,3 +305,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Plugging along...
 
 **Link(s) to work**: 
+
+
+### Day 35: February 12, 2018 
+
+**Today's Progress**: More work in CSS
+
+**Thoughts**: Missed a few days - had a migraine that I couldn't shake and then had to catch up on other projects when I came out of it - i did code on the 7th and 8th but I obviously forgot to Tweet. Oh well. Back on this horse :)
+
+**Link(s) to work**: 
