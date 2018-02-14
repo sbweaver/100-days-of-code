@@ -311,6 +311,15 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 
 **Today's Progress**: More work in CSS
 
-**Thoughts**: Missed a few days - had a migraine that I couldn't shake and then had to catch up on other projects when I came out of it - i did code on the 7th and 8th but I obviously forgot to Tweet. Oh well. Back on this horse :)
+**Thoughts**: Missed a few days - had a migraine that I couldn't shake and then had to catch up on other projects when I came out of it - i did code on the 7th and 8th but I obviously forgot to Tweet and log. Oh well. Back on this horse :)
+
+**Link(s) to work**: 
+
+
+### Day 36: February 13, 2018 
+
+**Today's Progress**: Back to my theme based on Underscores
+
+**Thoughts**: Got a little bit done but I can't go to "lakesidezen.dev" on my installation of DesktopServer - it's saying the site is not secure (https? of course it's not) - I'm wondering if the new version that I've been putting off installing might fix that? I should bite the bullet anyway and install it since I'm stalled out anyway - - I will upgrade and then ask Dave at the next WP Meetup if I can't figure it out. A little frustrated. Wanted to keep going on what I was doing. You can't always get what you want... (you can't always get what you want a LOT when you're a developer!)
 
 **Link(s) to work**: 
