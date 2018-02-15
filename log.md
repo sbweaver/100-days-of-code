@@ -322,4 +322,13 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 
 **Thoughts**: Got a little bit done but I can't go to "lakesidezen.dev" on my installation of DesktopServer - it's saying the site is not secure (https? of course it's not) - I'm wondering if the new version that I've been putting off installing might fix that? I should bite the bullet anyway and install it since I'm stalled out anyway - - I will upgrade and then ask Dave at the next WP Meetup if I can't figure it out. A little frustrated. Wanted to keep going on what I was doing. You can't always get what you want... (you can't always get what you want a LOT when you're a developer!)
 
-**Link(s) to work**: 
+**Link(s) to work**:  
+
+
+### Day 37: February 14, 2018 
+
+**Today's Progress**: More CSS and studying theme structure (PHP) in WordPress
+
+**Thoughts**: Kind of tired today - not sure where to start looking for help on a few things. Sometimes it's hard to find answers to questions. You have to know what questions to ask.
+
+**Link(s) to work**:
