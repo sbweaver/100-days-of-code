@@ -332,3 +332,21 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Kind of tired today - not sure where to start looking for help on a few things. Sometimes it's hard to find answers to questions. You have to know what questions to ask.
 
 **Link(s) to work**:
+
+
+### Day 38: February 15, 2018 
+
+**Today's Progress**: more CSS and PHP - didn't get the Tweet/logging done
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 39: February 16, 2018 
+
+**Today's Progress**: more CSS - figuring some things out with other stuff
+
+**Thoughts**: I need to do something like animation for a bit with CSS or get back to some Javascript...
+
+**Link(s) to work**:
