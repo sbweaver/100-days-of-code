@@ -359,3 +359,30 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: I decided to do something fun and went back to Val Head's CSS Animation class on Lynda.com. Did exercise 3.1 using my own graphics on Codepen. Had to do a few little modifications since I replaced JPGs with SVGs. Containers needed "display: block;" on them to get them to show.
 
 **Link(s) to work**: Not public yet but here: https://codepen.io/sgweaver/pen/07b2a7598ee9a995198623d6eaf26b9b
+
+
+### Day 41: February 18, 2018 
+
+**Today's Progress**: played with CSS animation on Codepen yesterday (2 hrs)
+
+**Thoughts**: Saw Titanic exhibit in Spokane - very cool - so sad...
+
+**Link(s) to work**: 
+
+
+### Day 42: February 19, 2018 
+
+**Today's Progress**: more layouts with CSS and tweaking	
+
+**Thoughts**: tired
+
+**Link(s) to work**: 
+
+
+### Day 43: February 20, 2018 
+
+**Today's Progress**: trying to do some intricate SVG animation - it's taking some time to prepare the files...
+
+**Thoughts**: I like doing animation... 
+
+**Link(s) to work**: 
