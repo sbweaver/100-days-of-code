@@ -386,3 +386,21 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: I like doing animation... 
 
 **Link(s) to work**: 
+
+
+### Day 44: February 22, 2018 
+
+**Today's Progress**: playing with CSS in some layout
+
+**Thoughts**: Didn't get the tweet done - it's the Lionel Hampton Jazz Festival and I have kids in band so it's not all about me and had lots of work to do today... no worries. 
+
+**Link(s) to work**: 
+
+
+### Day 45: February 23, 2018 
+
+**Today's Progress**: More work with SVG - getting closer
+
+**Thoughts**: Not sure how this is going to work yet or what I'm going to do, but I'm getting things mapped out - this could be really fun. Had been wanting to look at Sara Souieden's blogs and info for a while. She has great stuff. Looking forward to working through some of that.
+
+**Link(s) to work**: 
