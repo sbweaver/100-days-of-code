@@ -404,3 +404,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Not sure how this is going to work yet or what I'm going to do, but I'm getting things mapped out - this could be really fun. Had been wanting to look at Sara Souieden's blogs and info for a while. She has great stuff. Looking forward to working through some of that.
 
 **Link(s) to work**: 
+
+
+### Day 46: February 24, 2018 
+
+**Today's Progress**: Learning about SVGs from Sara Souieden (and Chris Coyier)
+
+**Thoughts**: SVGs are pretty fun - why didn't I do this earlier... oh well. now I can. Everyone else in my family is watching Harmon Quest on the Raspberry Pi (our amplifier died :( )... wish I could get into gaming and DnD but getting into SVGs is more fun... Harmon Quest is pretty dang funny, though. Symbols are really neat. I'm excited to play with them.
+
+**Link(s) to work**: I'm too introverted right now - maybe later...
