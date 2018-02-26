@@ -413,3 +413,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: SVGs are pretty fun - why didn't I do this earlier... oh well. now I can. Everyone else in my family is watching Harmon Quest on the Raspberry Pi (our amplifier died :( )... wish I could get into gaming and DnD but getting into SVGs is more fun... Harmon Quest is pretty dang funny, though. Symbols are really neat. I'm excited to play with them.
 
 **Link(s) to work**: I'm too introverted right now - maybe later...
+
+
+### Day 47: February 25, 2018 
+
+**Today's Progress**: Playing with SVGs
+
+**Thoughts**: I don't get viewBox yet... need to read more about that. Might try to make a color palette template with CSS similar to WSU's. Would be good to have ready to go for clients... 
+
+**Link(s) to work**: [SVG viewBox on Codepen.io](https://codepen.io/sgweaver/pen/ea2c4c0888feea496df953c443e266e3) (not yet public)
