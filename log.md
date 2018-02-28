@@ -422,3 +422,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: I don't get viewBox yet... need to read more about that. Might try to make a color palette template with CSS similar to WSU's. Would be good to have ready to go for clients... 
 
 **Link(s) to work**: [SVG viewBox on Codepen.io](https://codepen.io/sgweaver/pen/ea2c4c0888feea496df953c443e266e3) (not yet public)
+
+
+### Day 48: February 27, 2018 
+
+**Today's Progress**: Back to my theme based on Underscores
+
+**Thoughts**: Missed yesterday - Mr. Blue Screen of Death thwarted my efforts... Got new DesktopServer version installed. Got sites reconnected with new extentions (.dev.cc). Seems like the dropdown menu toggles aren't working now on my primary menu. Not sure why. 
+
+**Link(s) to work**: 
