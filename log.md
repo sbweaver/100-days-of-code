@@ -431,3 +431,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Missed yesterday - Mr. Blue Screen of Death thwarted my efforts... Got new DesktopServer version installed. Got sites reconnected with new extentions (.dev.cc). Seems like the dropdown menu toggles aren't working now on my primary menu. Not sure why. 
 
 **Link(s) to work**: 
+
+
+### Day 49: March 1, 2018 
+
+**Today's Progress**: Playing with SVGs
+
+**Thoughts**: Missed yesterday - Just couldn't fit it in... gave someone a marimba lesson, though :) Who doesn't love a marimba? Today was fun - I still don't get viewBox, though...
+
+**Link(s) to work**: 
