@@ -449,3 +449,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Missed a few days for the PWA Retreat - taught a bunch of newbies how to make a free WordPress.com portfolio site - did some linocut pelicans too - - liking playing with CSS grid on CodePen. I need to do more playing with it to get more fluent.
 
 **Link(s) to work**: getting close to posting
+
+
+### Day 51: March 6, 2018 
+
+**Today's Progress**: Worked on FreeCodeCamp mini portfolio so that I can pass it and get on to their Javascript lessons
+
+**Thoughts**: Playing with all of the fun stuff - colors, transitions, grid - - need to play with type more
+
+**Link(s) to work**: getting close to posting
