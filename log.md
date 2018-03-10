@@ -458,3 +458,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Playing with all of the fun stuff - colors, transitions, grid - - need to play with type more
 
 **Link(s) to work**: getting close to posting
+
+
+### Day 52: March 9, 2018 
+
+**Today's Progress**: Been working some the last few days but I've been sick too and it was a very important someone's birthday which takes precidence.
+
+**Thoughts**: Still making progress. I'm enjoying the little interactions with people on Twitter. I know that I'm not doing this challenge perfectly but with other obligations, I'm doing it to the best of my ability. I'm not going to beat up on myself about it because that does not support the goal of getting better at coding and being accountable in a positive way. 
+
+**Link(s) to work**: no 
