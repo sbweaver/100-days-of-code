@@ -471,8 +471,8 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 
 ### Day 53: March 10, 2018 
 
-**Today's Progress**: Played with SVGs; kind of get viewBox now; worked with slice/meet and xMinYmin and other preserveAspectRatio values too
+**Today's Progress**: Played with SVGs; kind of get viewBox now; worked with slice/meet and xMinYmin and other preserveAspectRatio values too using samples by Jakob Jenkov
 
 **Thoughts**: It's interesting to see how these graphics are created. This could be fun to play with for displaying complex data visually. 
 
-**Link(s) to work**: 
+**Link(s) to work**: Thank you Jakob Jenkov for this tutorial -  [SVG tutorial at Jenkov.com](http://tutorials.jenkov.com/svg/svg-viewport-view-box.html)
