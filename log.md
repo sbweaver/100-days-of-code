@@ -467,3 +467,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Still making progress. I'm enjoying the little interactions with people on Twitter. I know that I'm not doing this challenge perfectly but with other obligations, I'm doing it to the best of my ability. I'm not going to beat up on myself about it because that does not support the goal of getting better at coding and being accountable in a positive way. 
 
 **Link(s) to work**: no 
+
+
+### Day 53: March 10, 2018 
+
+**Today's Progress**: Played with SVGs; kind of get viewBox now; worked with slice/meet and xMinYmin and other preserveAspectRatio values too
+
+**Thoughts**: It's interesting to see how these graphics are created. This could be fun to play with for displaying complex data visually. 
+
+**Link(s) to work**: 
