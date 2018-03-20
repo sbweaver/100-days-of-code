@@ -476,3 +476,21 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: It's interesting to see how these graphics are created. This could be fun to play with for displaying complex data visually. 
 
 **Link(s) to work**: Thank you Jakob Jenkov for this tutorial -  [SVG tutorial at Jenkov.com](http://tutorials.jenkov.com/svg/svg-viewport-view-box.html)
+
+
+### Day 54: March 11, 2018 
+
+**Today's Progress**: Got some time in
+
+**Thoughts**: I'm learning. 
+
+**Link(s) to work**: 
+
+
+### Day 55: March 19, 2018 
+
+**Today's Progress**: Worked on CSS. Watched one of Jen Simmons' videos on her Layout Land channel on YouTube. Played with the ideas on Codepen.
+
+**Thoughts**: Missed a number of days because of a trip (not because i was lazy - because i needed to make family a priority). Glad to be back! I missed my hour of code. I also miss Verdana! What a pretty little typeface for the web. I miss how clean and crisp it looks. I guess when all of the webfonts came in I felt obligated to use them so things would look more modern. In the process I stopped using Verdana so much. I always liked the look of it. Maybe I'll start bringing it back into my repetoire :)
+
+**Link(s) to work**: 
