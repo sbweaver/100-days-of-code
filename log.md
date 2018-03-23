@@ -494,3 +494,14 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 **Thoughts**: Missed a number of days because of a trip (not because i was lazy - because i needed to make family a priority). Glad to be back! I missed my hour of code. I also miss Verdana! What a pretty little typeface for the web. I miss how clean and crisp it looks. I guess when all of the webfonts came in I felt obligated to use them so things would look more modern. In the process I stopped using Verdana so much. I always liked the look of it. Maybe I'll start bringing it back into my repetoire :)
 
 **Link(s) to work**: 
+
+
+### Day 56: March 22, 2018 
+
+**Today's Progress**: Studying the Gutenberg project
+
+**Thoughts**: Wondering if this is the best use of my time (Gutenberg course) - - but it's interesting and I'm understanding more of it than I thought I might. 
+
+Doing life, family, running a business, and getting this in every day right now is a challenge. I'm not giving up on 100DaysOfCode though technically I'm probably disqualified... If I wait until a time when I know I can do it without more than a day missed I'll never get around to it. The goal is to code more, so I'm just going to do my best and keep going. 
+
+**Link(s) to work**: 
