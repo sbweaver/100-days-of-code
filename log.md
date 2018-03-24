@@ -505,3 +505,12 @@ Rant complete. Day 11 complete. Well, that's appropriate. Hail 11:11
 Doing life, family, running a business, and getting this in every day right now is a challenge. I'm not giving up on 100DaysOfCode though technically I'm probably disqualified... If I wait until a time when I know I can do it without more than a day missed I'll never get around to it. The goal is to code more, so I'm just going to do my best and keep going. 
 
 **Link(s) to work**: 
+
+
+### Day 57: March 23, 2018 
+
+**Today's Progress**: Worked in some Javascript - more tomorrow...
+
+**Thoughts**: Not many today :)
+
+**Link(s) to work**: 
