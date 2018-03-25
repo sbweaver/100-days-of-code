@@ -514,3 +514,12 @@ Doing life, family, running a business, and getting this in every day right now 
 **Thoughts**: Not many today :)
 
 **Link(s) to work**: 
+
+
+### Day 58: March 24, 2018 
+
+**Today's Progress**: Back to Underscores theme. I installed Gutenberg plugin - going to see what I can do with that. 
+
+**Thoughts**: After some quiet contemplation I am back to my main goal - working on my theme so that I can use it to play with grid. Will get back to Javascript later. Sounds like M. Rand-Hendrickson may have done some work with that already. Need to sleuth around some more to find out. 
+
+**Link(s) to work**: 
