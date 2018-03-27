@@ -523,3 +523,12 @@ Doing life, family, running a business, and getting this in every day right now 
 **Thoughts**: After some quiet contemplation I am back to my main goal - working on my theme so that I can use it to play with grid. Will get back to Javascript later. Sounds like M. Rand-Hendrickson may have done some work with that already. Need to sleuth around some more to find out. 
 
 **Link(s) to work**: 
+
+
+### Day 59: March 26, 2018 
+
+**Today's Progress**: Played with Gutenberg and a new WP theme that has some grid built in. Interesting.
+
+**Thoughts**: 
+
+**Link(s) to work**: 
