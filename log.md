@@ -532,3 +532,12 @@ Doing life, family, running a business, and getting this in every day right now 
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+
+### Day 60: March 27, 2018 
+
+**Today's Progress**: Played with Gutenberg and a theme with my own grid layout. 
+
+**Thoughts**: I like setting it up myself rather than trying to work within someone else's weird setup.
+
+**Link(s) to work**: 
