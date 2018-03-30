@@ -541,3 +541,12 @@ Doing life, family, running a business, and getting this in every day right now 
 **Thoughts**: I like setting it up myself rather than trying to work within someone else's weird setup.
 
 **Link(s) to work**: 
+
+
+### Day 61: March 28, 2018 
+
+**Today's Progress**: Played more with Gutenberg and a theme with my own CSS grid layout. 
+
+**Thoughts**: Sometimes I make one change and everything gets weird...
+
+**Link(s) to work**: 
