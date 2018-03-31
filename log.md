@@ -550,3 +550,12 @@ Doing life, family, running a business, and getting this in every day right now 
 **Thoughts**: Sometimes I make one change and everything gets weird...
 
 **Link(s) to work**: 
+
+
+### Day 62: March 30, 2018 
+
+**Today's Progress**: More with Gutenberg and a theme with my own CSS grid layout. 
+
+**Thoughts**: need to keep working with this stuff to get more fluent. Gutenberg makes it easy to apply a grid to the blocks. Nice.
+
+**Link(s) to work**: 
