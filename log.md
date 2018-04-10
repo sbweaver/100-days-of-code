@@ -559,3 +559,14 @@ Doing life, family, running a business, and getting this in every day right now 
 **Thoughts**: need to keep working with this stuff to get more fluent. Gutenberg makes it easy to apply a grid to the blocks. Nice.
 
 **Link(s) to work**: 
+
+
+### Day 63: April 9, 2018 
+
+**Today's Progress**: More with Gutenberg and a theme with my own CSS grid layout. Made some progress but mostly made a mess.
+
+**Thoughts**: I worked some on paper after making a big mess on my live website. But it's just my presentation site for the WordPress Meetup, so I'm not worrying about it. 
+
+I am somewhat discouraged that I missed so many days, but there were just too many other things that had to take precidence over this. I wish I could just sit around and play with code all day but I have too many other obligations. But I'm not giving up. And I did make some art which made me happy :)
+
+**Link(s) to work**: [My WordPress Meetup Notes website](http://wpmeetup.susanweaver.net/)
