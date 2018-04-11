@@ -570,3 +570,12 @@ Doing life, family, running a business, and getting this in every day right now 
 I am somewhat discouraged that I missed so many days, but there were just too many other things that had to take precidence over this. I wish I could just sit around and play with code all day but I have too many other obligations. But I'm not giving up. And I did make some art which made me happy :)
 
 **Link(s) to work**: [My WordPress Meetup Notes website](http://wpmeetup.susanweaver.net/)
+
+
+### Day 64: April 10, 2018 
+
+**Today's Progress**: More with Gutenberg and a theme with my own CSS grid layout. Made some progress but mostly STILL made a mess.
+
+**Thoughts**: Some things aren't working as I would assume they should... Will keep trying to figure it out. 
+
+**Link(s) to work**: [My WordPress Meetup Notes website](http://wpmeetup.susanweaver.net/)
