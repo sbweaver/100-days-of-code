@@ -587,9 +587,39 @@ I am somewhat discouraged that I missed so many days, but there were just too ma
 
 **Thoughts**: I was trying to figure out how to select all of the content after each odd and then even h2 and make it alternate back and forth on the page with grid. I was using "h2:nth-of-type(odd) ~ p" (etc) to select all of the odd and then the same with even. It didn't work when you went back to odd, though, because the even was still applied (it doesn't start over at the next h2). Will be thinking about how to solve that if there's a way. It would be nice to be able to do it without having to add unique classes to items. It's interesting to think about. 
 
+This is the kind of stuff that I miss doing. I really loved figuring out how to make stretchy boxes before there was border-radius. 
+
 It's good to break things. I've just been trying to be kind to myself and let myself play with this stuff. Noticed that I'd forgotten a "." in front of a class and that's why my "span 3" wasn't working... finally :D  I suppose that's what happens when you're tired and trying to hurry. 
 
 Mina Markham just Tweeted that she did something similar last week so I don't feel too bad! I'm reading Brené Brown's "Daring Greatly" - Mina is brave to show her vulnerability and I will try to be brave too. 
 It's intimidating being a web designer. You're always assuming that everyone knows so much more than you and that you're not good enough. Need to let that go. I want to have fun with this as much as I can. 
 
 **Link(s) to work**: [My WordPress Meetup Notes website](http://wpmeetup.susanweaver.net/)
+
+
+--------------------
+FALSE START :(
+
+
+### Day 01: August 30, 2018 
+
+**Today's Progress**: Getting development environment set up to try new project. 
+
+**Thoughts**: Haven't looked at this stuff in a while. Refreshing my memory...
+
+**Link(s) to work**: not today...
+
+
+---------------------
+THIRD TRY AT 100DaysOfCode -- Hope I make it!
+
+
+### Day 01: January 03, 2019 
+
+**Today's Progress**: Working through the WPRig tutorial on LinkedIn Learning. 
+
+**Thoughts**: Installed "dev-ip" to look at my local IP; Need to figure out what port I should be using because Browsersync isn't working; got Gitter up and running again; getting my development environment working always seems to be more of a headache than the actual coding; helped someone with some string contatenation in Google Sheets. 
+
+**Link(s) to work**: none today
+
+
