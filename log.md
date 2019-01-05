@@ -623,3 +623,8 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Link(s) to work**: none today
 
 
+### Day 02: January 04, 2019 
+
+**Today's Progress**: fighting with browsersync - it's watching but not letting me see the page... I can type the local URL in manually and see it; found out (on Twitter) that a new version of the WPRig tutorial will be coming out so maybe I'll wait for it and do something else
+
+**Thoughts**: I've tried changing ports, added "https://" to the beginning of the proxyURL, can see that it is watching - command prompt shows that it's reloading but i get the following error in the browser, "This site can’t be reached localhost unexpectedly closed the connection." Posted in the Browsersync Slack channel - we'll see if I get any replies. 
