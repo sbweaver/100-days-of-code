@@ -628,3 +628,10 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Today's Progress**: fighting with browsersync - it's watching but not letting me see the page... I can type the local URL in manually and see it; found out (on Twitter) that a new version of the WPRig tutorial will be coming out so maybe I'll wait for it and do something else
 
 **Thoughts**: I've tried changing ports, added "https://" to the beginning of the proxyURL, can see that it is watching - command prompt shows that it's reloading but i get the following error in the browser, "This site can’t be reached localhost unexpectedly closed the connection." Posted in the Browsersync Slack channel - we'll see if I get any replies. 
+
+
+### Day 03: January 05, 2019 
+
+**Today's Progress**: Took a break and played in Mozilla's Developer Tools instead of Chrome. Finding some things that I didn't realize were in there. Finished early because I spent more than an hour yesterday. 
+
+**Thoughts**: Forgot to log yesterday that I asked Mor10 when he thought the new WP Rig tutorial might be out and he said that it would be a while. He suggested looking at the current one and then watching for the changes that are coming... 
