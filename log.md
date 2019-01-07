@@ -635,3 +635,10 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Today's Progress**: Took a break and played in Mozilla's Developer Tools instead of Chrome. Finding some things that I didn't realize were in there. Finished early because I spent more than an hour yesterday. 
 
 **Thoughts**: Forgot to log yesterday that I asked Mor10 when he thought the new WP Rig tutorial might be out and he said that it would be a while. He suggested looking at the current one and then watching for the changes that are coming... 
+
+
+### Day 04: January 06, 2019 
+
+**Today's Progress**: Was driving for robotics carpool today and didn't have as much time on the computer so I read *CSS: The Definitive Guide* by Eric Meyer and Estelle Weyl. Refreshing my memory on combinators and selectors.  
+
+**Thoughts**: I wish I'd been more solid on this stuff earlier in my career. There are little details that could have helped me avoid some complexity in my past code.  
