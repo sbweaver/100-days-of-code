@@ -642,3 +642,10 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Today's Progress**: Was driving for robotics carpool today and didn't have as much time on the computer so I read *CSS: The Definitive Guide* by Eric Meyer and Estelle Weyl. Refreshing my memory on combinators and selectors.  
 
 **Thoughts**: I wish I'd been more solid on this stuff earlier in my career. There are little details that could have helped me avoid some complexity in my past code.  
+
+
+### Day 05: January 07, 2019 
+
+**Today's Progress**: WP Rig tutorial - I kept going while waiting for answers: I changed debug styles to "true" in the themeConfig.js file (according to tutorial) and i ran "npm run build" and this time Browsersync worked for some reason. Not sure why but I'll take it! Found some Markdown cheat sheets to brush up on too. 
+
+**Thoughts**: It's always great when everything starts working. I'm liking WP Rig so far. Nice and clean start for themes. I'm trying the SASS options now. I smile when things start working. You just have to keep trying with this stuff and try not to get discouraged when you're stuck for a bit... It's the nature of development sometimes. 
