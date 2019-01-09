@@ -649,3 +649,12 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Today's Progress**: WP Rig tutorial - I kept going while waiting for answers: I changed debug styles to "true" in the themeConfig.js file (according to tutorial) and i ran "npm run build" and this time Browsersync worked for some reason. Not sure why but I'll take it! Found some Markdown cheat sheets to brush up on too. 
 
 **Thoughts**: It's always great when everything starts working. I'm liking WP Rig so far. Nice and clean start for themes. I'm trying the SASS options now. I smile when things start working. You just have to keep trying with this stuff and try not to get discouraged when you're stuck for a bit... It's the nature of development sometimes. 
+
+
+### Day 06: January 08, 2019 
+
+**Today's Progress**: WP Rig tutorial - Reorganized my notes using Markdown and got a little bit farther in the tutorial. 
+
+**Thoughts**: Sometimes I forget what I know because I just haven't done it in a while. Then I do it again and I remember. I have to look up less each time... or at least I have to look up different things now. I am progressing :)
+
+ 
