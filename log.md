@@ -657,4 +657,11 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 **Thoughts**: Sometimes I forget what I know because I just haven't done it in a while. Then I do it again and I remember. I have to look up less each time... or at least I have to look up different things now. I am progressing :)
 
+
+### Day 07: January 09, 2019 
+
+**Today's Progress**: WP Rig tutorial - Working through it. 
+
+**Thoughts**: I'm understanding this pretty well. I've been through a number of these theming tutorials now and it is cummulative.
+
  
