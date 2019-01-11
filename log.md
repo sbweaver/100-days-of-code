@@ -664,4 +664,11 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 **Thoughts**: I'm understanding this pretty well. I've been through a number of these theming tutorials now and it is cummulative.
 
+
+### Day 08: January 10, 2019 
+
+**Today's Progress**: WP Rig tutorial - Customizing templates and moving things around. 
+
+**Thoughts**: I may need to use this as a basis for my WordPress Meetup website. It could be nice.
+
  
