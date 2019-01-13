@@ -678,4 +678,11 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 **Thoughts**: Enjoying learning. Lots of nice features in this. I like how ESLint checks your JavaScript. 
 
+
+### Day 10: January 12, 2019 
+
+**Today's Progress**: Read some more of *CSS: The Definitive Guide* by Eric Meyer and Estelle Weyl. Did more of WP Rig tutorial - Looking at functions. 
+
+**Thoughts**: Learned that "h2 ~ol" is a "general sibling combinator" - it . Also need to go look at Multi-column Layout article by Rachel Andrew - Jen Simmons was tweeting about it. I think I tried that for one of the WSU pages a year or so ago and got frustrated? Need to go look at it again because that page still doesn't look spectacular... 
+
  
