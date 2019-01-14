@@ -692,6 +692,8 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 **Thoughts**: "True, I talk of dreams, Which are the children of an idle brain..." 
 
+[From Mercutio](https://codepen.io/sgweaver/pen/REELzx)
+
 	ul.idle-brain li::before {
 		content: "Dream: ";
 	}
