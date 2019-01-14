@@ -685,4 +685,21 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 **Thoughts**: Learned that "h2 ~ol" is a "general sibling combinator" - it . Also need to go look at Multi-column Layout article by Rachel Andrew - Jen Simmons was tweeting about it. I think I tried that for one of the WSU pages a year or so ago and got frustrated? Need to go look at it again because that page still doesn't look spectacular... 
 
- 
+
+### Day 11: January 13, 2019 
+
+**Today's Progress**: Didn't do much today, but I've been averaging at least 1.25 hours if not more for the last 4 days. Needed to help a kid learn his lines instead.  
+
+**Thoughts**: "True, I talk of dreams, Which are the children of an idle brain..." 
+
+	ul.idle-brain li::before {
+		content: "Dream: ";
+	}
+
+	<ul class="idle-brain">
+		<li>court'sies</li>
+		<li>fees</li>
+		<li>kisses</li>
+	</ul>
+
+
