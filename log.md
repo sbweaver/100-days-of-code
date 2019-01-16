@@ -711,3 +711,9 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 **Thoughts**: There are few selectors that I hadn't really thought about using that could come in handy. It could be better to use them than create extra unneeded classes. 
 
+
+### Day 13: January 15, 2019 
+
+**Today's Progress**: Read some more of *CSS: The Definitive Guide* and finished the [Going further with WordPress and WP Rig](https://www.linkedin.com/learning/wordpress-building-progressive-themes-with-wp-rig/going-further-with-wordpress-and-wp-rig) tutorial by Morten Rand-Hendrickson. It is free to anyone.  
+
+**Thoughts**: Morten was thorough. It seems to do a lot for you. I would like to figure out how to add in variable fonts.  
