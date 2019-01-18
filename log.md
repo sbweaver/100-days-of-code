@@ -716,4 +716,14 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 **Today's Progress**: Read some more of *CSS: The Definitive Guide* and finished the [Going further with WordPress and WP Rig](https://www.linkedin.com/learning/wordpress-building-progressive-themes-with-wp-rig/going-further-with-wordpress-and-wp-rig) tutorial by Morten Rand-Hendrickson. It is free to anyone.  
 
-**Thoughts**: Morten was thorough. It seems to do a lot for you. I would like to figure out how to add in variable fonts.  
+**Thoughts**: It seems to do a lot for you. I am excited to test drive this. 
+
+
+### Day 14: January 17, 2019 
+
+**Today's Progress**: Learning some CSS animation - reviewing, actually. 
+
+**Thoughts**: I do animation somewhat rarely so I am not very fluent, yet. Would like to get better at it. I used to do animation quite a lot and enjoyed it. Missed yesterday - was busy with work, kids, and went to my local WordPress Meetup. Lots of good conversations. 
+
+
+
