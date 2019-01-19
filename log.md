@@ -726,4 +726,11 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Thoughts**: I do animation somewhat rarely so I am not very fluent, yet. Would like to get better at it. I used to do animation quite a lot and enjoyed it. Missed yesterday - was busy with work, kids, and went to my local WordPress Meetup. Lots of good conversations. 
 
 
+### Day 15: January 18, 2019 
+
+**Today's Progress**: Playing with WP theme customization in WP Rig starter theme. 
+
+**Thoughts**: Easy to use... having fun. 
+
+
 
