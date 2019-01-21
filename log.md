@@ -733,4 +733,18 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Thoughts**: Easy to use... having fun. 
 
 
+### Day 16: January 19, 2019 
+
+**Today's Progress**: Did some FreeCodeCamp today. Didn't quite finish - will do more tomorrow. 
+
+**Thoughts**: Want to build something but too much going on today. 
+
+
+### Day 17: January 20, 2019 
+
+**Today's Progress**: More FreeCodeCamp today - all review. Did extra to make up for yesterday. 
+
+**Thoughts**: I need to build something. I don't like the idea of people looking over my shoulder when I'm building. I hear that is a designer thing.  
+
+
 
