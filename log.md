@@ -747,4 +747,11 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Thoughts**: I need to build something. I don't like the idea of people looking over my shoulder when I'm building. I hear that is a designer thing.  
 
 
+### Day 18: January 21, 2019 
+
+**Today's Progress**: More FreeCodeCamp today - all review, though this has changed since I did it last. 
+
+**Thoughts**: Tired but I'm going to keep going. Need to get this done earlier in the day. I'm not as inspired when I'm tired. Need to keep in mind that you can select by "type" in CSS. 
+
+
 
