@@ -754,4 +754,11 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Thoughts**: Tired but I'm going to keep going. Need to get this done earlier in the day. I'm not as inspired when I'm tired. Need to keep in mind that you can select by "type" in CSS. 
 
 
+### Day 19: January 22, 2019 
+
+**Today's Progress**: More FreeCodeCamp today. 
+
+**Thoughts**: Picking up a little think here or there that I haven't used much. 
+
+
 
