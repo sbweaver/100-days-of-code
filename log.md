@@ -611,7 +611,8 @@ FALSE START :(
 
 
 ---------------------
-THIRD TRY AT 100DaysOfCode -- Hope I make it!
+
+## THIRD TRY AT 100DaysOfCode -- Hope I make it!
 
 
 ### Day 01: January 03, 2019 
@@ -759,6 +760,26 @@ THIRD TRY AT 100DaysOfCode -- Hope I make it!
 **Today's Progress**: More FreeCodeCamp today. 
 
 **Thoughts**: Picking up a little think here or there that I haven't used much. 
+
+
+
+---------------------
+
+## My Own Version of 100DaysOfCode
+
+
+### Day 1: February 7, 2019 
+
+**Today's Progress**: Working on my own theme with WP Rig. 
+
+**Thoughts**: Good day. 
+
+
+### Day 2: February 10, 2019 
+
+**Today's Progress**: Worked quite a while setting up a project on Codepen using the beta that they have on there. Also reviewed HTML5 and looked at some canvas tutorials. Probably did 3 hours total - trying to start a project that I can use for the PWA show.  
+
+**Thoughts**: Good review. Trying a vanilla website without a CMS.  
 
 
 
